@@ -1,9 +1,9 @@
 {
-	"name": "ink-syntax-highlight",
-	"version": "1.0.1",
-	"description": "Synax highlight component for Ink",
-	"license": "MIT",
-	"repository": "vsashyn/ink-syntax-highlight",
+	"name": "@fauna-labs/ink-syntax-highlight",
+	"version": "1.1.0",
+	"description": "Syntax highlight component for Ink",
+	"license": "MIT-0",
+	"repository": "fauna-labs/ink-syntax-highlight",
 	"author": {
 		"name": "Vitalii Sashyn",
 		"email": "sashyn.v@gmail.com",
@@ -55,8 +55,8 @@
 		"xo": "^0.32.0"
 	},
 	"peerDependencies": {
-		"ink": "^3.0.0-4",
-		"react": "^16.8.2"
+		"ink": ">=3.0.5",
+		"react": ">=16.8.2"
 	},
 	"ava": {
 		"babel": {
